@@ -2,6 +2,12 @@
 function oncart()
 {
 var check=false;
+var cookievalue="";
+
+if(document.getElementById("b1").checked)
+{
+check=true;
+
 </script>
 
 <!---
