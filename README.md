@@ -1,8 +1,8 @@
-<HATML>
-<HEAD>
-     <TITLE>Registration From</TITLE>
-</HEAD>
-</HTML>
+<script>
+function oncart()
+{
+var check=false;
+</script>
 
 <!---
 JankiLimbasiya/JankiLimbasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
