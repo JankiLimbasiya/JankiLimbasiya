@@ -7,7 +7,12 @@ var cookievalue="";
 if(document.getElementById("b1").checked)
 {
 check=true;
-
+var quality =document.getElementById("q1").value;
+var price = 399;
+var total=(price*quant);
+cookievalue+=":Girls pink bag,"+price+","+quantity+","+total;
+}
+}
 </script>
 
 <!---
